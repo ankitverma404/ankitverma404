@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Verma</h1>
 <h3 align="center">A passionate Website developer from India</h3>
-<div align="center"> <img src="https://www.canva.com/design/DAFmSRbyJ-g/woUyr518spM9pfOeY_ayHg/edit?utm_content=DAFmSRbyJ-g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> </div>
-
+<div align="center"> <img src="https://vui.unsplash.com/resize?height=256&quality=60&type=auto&url=https%3A%2F%2Fsearched-images.s3.us-west-2.amazonaws.com%2Fa8952597-fe15-44d1-93ff-442e3ffdfcba%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAQ4GRIA4Q6KECABEK%252F20230619%252Fus-west-2%252Fs3%252Faws4_request%26X-Amz-Date%3D20230619T183926Z%26X-Amz-Expires%3D86400%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3D57d455707277585bad978ba69a5d7c5444de73c0100a007685b9a34f3f581076&sign=LqbchzzwFGj_UNSsB071sKwLLZ9Mts2g5m2YAZU7YNY"> </div>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitverma404&label=Profile%20views&color=0e75b6&style=flat" alt="ankitverma404" /> </p>
